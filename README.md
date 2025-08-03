@@ -7,7 +7,7 @@ A full-featured **Food Delivery Website** built with the **MERN Stack**. Tomato 
 ## 🚀 Live Demo
 
 - 🌐 **Frontend (User)**: [Tomato Website](https://food-delivery-website-gamma.vercel.app/)
-- 🔐 **Admin Panel**: [Tomato Admin](https://food-delivery-website-admin.vercel.app/)
+
 
 ---
 ## 📦 Features
